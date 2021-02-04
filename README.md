@@ -52,4 +52,3 @@ Recommendations:
 - Use CSS or SCSS to style your component(s). Although functionality is more important, you can also
 make it look pretty.
 
-## Demo
