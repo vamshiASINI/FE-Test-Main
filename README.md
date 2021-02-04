@@ -53,4 +53,3 @@ Recommendations:
 make it look pretty.
 
 ## Demo
-https://www.awesomescreenshot.com/video/2405445?key=0a29d09e1d1158dd2c5ebe59fdcce069
